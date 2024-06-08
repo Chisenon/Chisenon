@@ -8,7 +8,7 @@
 
 # ﾁｮｯﾄﾜｶﾙ
 
-<img src="https://skillicons.dev/icons?i=ae,c,cs,py,md,notion," />
+<img src="https://skillicons.dev/icons?i=ae,c,cs,py,md,notion" />
 
 # 勉強中
 
