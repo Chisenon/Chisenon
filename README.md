@@ -7,21 +7,17 @@
 
 </p>
 
-<div style="margin-left: 20px; border-left: 4px solid #e91e63; padding-left: 15px;">
-
-# **Hi, I'm Chisenon!**
-
-🎨 **What I do ?**
-- 🔧 Electronics & Hardware
-- 💻 Programming
-- 🎭 Digital Art
-- 📦 3D Modeling
-
-⚡ **Currently**
-- HLSL Shader for Unity
-- Visual Effects
-
-</div>
+> # **Hi, I'm Chisenon!**
+> 
+> 🎨 **What I do ?**
+> - 🔧 Electronics & Hardware
+> - 💻 Programming
+> - 🎭 Digital Art
+> - 📦 3D Modeling
+> 
+> ⚡ **Currently**
+> - HLSL Shader for Unity
+> - Visual Effects
 
 <!-- GitHub Profile Summary Cards -->
 <p>
@@ -32,49 +28,18 @@
 
 ## Skills
 
-<div style="margin-left: 20px; border-left: 4px solid #e91e63; padding-left: 15px;">
+> ### Languages & Frameworks
+> | |
+> |---|
+> | **Frequently Used** <br/> <img src="https://skillicons.dev/icons?i=c,rust,tauri" height="40" style="margin-right: 8px;" /> <br/> <img src="https://img.shields.io/badge/GLSL / HLSL-FF6B35?style=flat&logoColor=white" alt="GLSL/HLSL" style="margin-right: 4px; margin-top: 8px; height: 20px;" /> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white" alt="Arduino" style="margin-right: 4px; margin-top: 8px; height: 20px;" /> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22082?style=flat&logo=Raspberry%20Pi&logoColor=white" alt="Raspberry Pi" style="margin-right: 4px; margin-top: 8px; height: 20px;" /> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" alt="ESP32" style="margin-right: 4px; margin-top: 8px; height: 20px;" /> |
+> | **Proficient** <br/> <img src="https://skillicons.dev/icons?i=cs,javascript,html,css,python" height="40" style="margin-right: 8px;" /> |
+> | **Learning** <br/> <img src="https://skillicons.dev/icons?i=yew,go,react,ts" height="40" style="margin-right: 8px;" /> <br/> <img src="https://img.shields.io/badge/Assembly-525252?style=flat&logoColor=white" alt="Assembly" style="margin-right: 4px; margin-top: 8px; height: 20px;" /> <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white" alt="KiCad" style="margin-right: 4px; margin-top: 8px; height: 20px;" /> |
 
-**Frequently Used**
-<br/>
-<img src="https://skillicons.dev/icons?i=c,rust,tauri" height="40" style="margin-right: 8px;" />
-<br/>
-<img src="https://img.shields.io/badge/GLSL / HLSL-FF6B35?style=flat&logoColor=white" alt="GLSL/HLSL" style="margin-right: 4px; margin-top: 8px; height: 20px;" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white" alt="Arduino" style="margin-right: 4px; margin-top: 8px; height: 20px;" />
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22082?style=flat&logo=Raspberry%20Pi&logoColor=white" alt="Raspberry Pi" style="margin-right: 4px; margin-top: 8px; height: 20px;" />
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" alt="ESP32" style="margin-right: 4px; margin-top: 8px; height: 20px;" />
-
-**Proficient**
-<br/>
-<img src="https://skillicons.dev/icons?i=cs,javascript,html,css,python" height="40" style="margin-right: 8px;" />
-
-**Learning**
-<br/>
-<img src="https://skillicons.dev/icons?i=yew,go,react,ts" height="40" style="margin-right: 8px;" />
-<br/>
-<img src="https://img.shields.io/badge/Assembly-525252?style=flat&logoColor=white" alt="Assembly" style="margin-right: 4px; margin-top: 8px; height: 20px;" />
-<img src="https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white" alt="KiCad" style="margin-right: 4px; margin-top: 8px; height: 20px;" />
-
-</div>
-
-### Tools & Software
-
-<div style="margin-left: 20px; border-left: 4px solid #e91e63; padding-left: 15px;">
-
-**3D & Graphics**
-<br/>
-<img src="https://skillicons.dev/icons?i=blender,unity,ae" height="40" style="margin-right: 8px;" />
-<br/>
-<img src="https://img.shields.io/badge/Substance%203D%20Painter-129933?style=flat&logo=adobe&logoColor=white" alt="Substance 3D Painter" style="margin-right: 4px; margin-top: 8px; height: 20px;" />
-<img src="https://img.shields.io/badge/CLIP%20STUDIO%20PAINT-ffffff?style=flat&logoColor=white" alt="CLIP STUDIO" style="margin-right: 4px; margin-top: 8px; height: 20px;" />
-
-**Others**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,notion" height="40" style="margin-right: 8px;" />
-<br/>
-<img src="https://img.shields.io/badge/REAPER-00CC00?style=flat&logoColor=white" alt="REAPER" style="margin-right: 4px; margin-top: 8px; height: 20px;" />
-<img src="https://img.shields.io/badge/TouchDesigner-0099FF?style=flat&logoColor=white" alt="TouchDesigner" style="margin-right: 4px; margin-top: 8px; height: 20px;" />
-<img src="https://img.shields.io/badge/AutoCAD-A5061D?style=flat&logo=autodesk&logoColor=white" alt="AutoCAD" style="margin-right: 4px; margin-top: 8px; height: 20px;" />
-</div>
+> ### Tools & Software
+> | |
+> |---|
+> | **3D & Graphics** <br/> <img src="https://skillicons.dev/icons?i=blender,unity,ae" height="40" style="margin-right: 8px;" /> <br/> <img src="https://img.shields.io/badge/Substance%203D%20Painter-129933?style=flat&logo=adobe&logoColor=white" alt="Substance 3D Painter" style="margin-right: 4px; margin-top: 8px; height: 20px;" /> <img src="https://img.shields.io/badge/CLIP%20STUDIO%20PAINT-ffffff?style=flat&logoColor=white" alt="CLIP STUDIO" style="margin-right: 4px; margin-top: 8px; height: 20px;" /> |
+> | **Others** <br/> <img src="https://skillicons.dev/icons?i=git,notion" height="40" style="margin-right: 8px;" /> <br/> <img src="https://img.shields.io/badge/REAPER-00CC00?style=flat&logoColor=white" alt="REAPER" style="margin-right: 4px; margin-top: 8px; height: 20px;" /> <img src="https://img.shields.io/badge/TouchDesigner-0099FF?style=flat&logoColor=white" alt="TouchDesigner" style="margin-right: 4px; margin-top: 8px; height: 20px;" /> <img src="https://img.shields.io/badge/AutoCAD-A5061D?style=flat&logo=autodesk&logoColor=white" alt="AutoCAD" style="margin-right: 4px; margin-top: 8px; height: 20px;" /> |
 
 
 ## Contact
